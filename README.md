@@ -25,7 +25,7 @@ XGBoost-классификатор с тюнингом порога через `
 - Recall (класс "ушёл"): 0.75
 
 ## Дашборд
-![Dashboard Screenshot](data/screenshots/image.png)
+![Dashboard Screenshot](data/screenshot/image.png)
 
 ## Технологии
 Python (pandas, scikit-learn, xgboost, sqlalchemy), PostgreSQL, Power BI (DAX)
